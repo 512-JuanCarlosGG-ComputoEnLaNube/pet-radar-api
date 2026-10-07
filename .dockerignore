@@ -1,0 +1,14 @@
+.env
+.env.*
+.git
+.agents
+.codex
+.aws
+node_modules
+dist
+coverage
+test
+*.log
+.vscode
+.idea
+README.md
